@@ -1,1 +1,1 @@
-changement de la phrase des mots une fonctionnalités en deux fonctionalités 
+changement de la phrase des mots une fonctionnalité en deux fonctionalités
